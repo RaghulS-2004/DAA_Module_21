@@ -15,8 +15,8 @@ To write a python program to implement pattern matching on the given string usin
 ```
 /*
 Program to implement the Pattern Matching.
-Developed by: Praveen V
-Register Number: 212222040121
+Developed by: RAGHUL S
+Register Number: 212222040128
 */
 ```
 ```py
